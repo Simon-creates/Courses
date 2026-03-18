@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Frontend/">
+    <File Path="Frontend.js" />
+  </Folder>
   <Project Path="Courses.csproj" />
 </Solution>
